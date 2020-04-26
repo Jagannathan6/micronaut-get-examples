@@ -1,0 +1,11 @@
+micronaut:
+  application:
+    name: hello-world
+vehicle:
+  car:
+    tyre: 4
+    others:
+      sedan: true
+      hunchbag: false
+
+
